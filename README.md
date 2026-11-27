@@ -1,4 +1,4 @@
 # My First Repository 
  
 ## Description 
-CSE103 lab repository - LAB 3. 
+Lab work for CSE103 — Git/GitHub workflows, shell scripting, and REST API interaction.
