@@ -1,3 +1,26 @@
-_pycache_/ 
-*.pyc 
-.env 
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+# Environment files
+.env
+.venv/
+venv/
+ENV/
+# Build and distribution
+dist/
+build/
+*.egg-info/
+.eggs/
+# IDE / Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+# Operating system files
+.DS_Store
+Thumbs.db
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
